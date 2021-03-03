@@ -1,0 +1,17 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+h1{
+	background: #34495e;
+	color: white;
+	font-size: 40px;
+	text-align: center;
+	text-transform: capitalize;
+}
+p{
+	font-size: 15px;
+	line-height: 25px;
+	word-spacing: 1px;
+}
